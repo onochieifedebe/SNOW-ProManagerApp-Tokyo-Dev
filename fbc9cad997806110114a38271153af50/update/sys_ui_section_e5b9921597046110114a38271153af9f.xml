@@ -4,29 +4,15 @@
             <element>u_journal_1</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-27 20:30:08</sys_created_on>
-            <sys_id>78e9961597046110114a38271153af31</sys_id>
+            <sys_created_on>2022-12-28 20:42:16</sys_created_on>
+            <sys_id>1846abe19708a110114a38271153af8d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_862716_pmanager_employee" sys_domain="global" view="Default view">e5b9921597046110114a38271153af9f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-27 20:30:08</sys_updated_on>
+            <sys_updated_on>2022-12-28 20:42:16</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>activity.xml</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-27 20:30:08</sys_created_on>
-            <sys_id>f8e9961597046110114a38271153af31</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
-            <sys_ui_section caption="Notes" display_value="Notes" name="x_862716_pmanager_employee" sys_domain="global" view="Default view">e5b9921597046110114a38271153af9f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-27 20:30:08</sys_updated_on>
-            <sys_user/>
-            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Notes</caption>
