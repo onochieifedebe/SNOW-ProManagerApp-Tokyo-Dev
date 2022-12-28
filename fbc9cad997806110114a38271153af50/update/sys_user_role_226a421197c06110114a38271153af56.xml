@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_862716_pmanager.employee_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_862716_pmanager.employee_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-27 19:22:31</sys_created_on>
+        <sys_id>226a421197c06110114a38271153af56</sys_id>
+        <sys_name>x_862716_pmanager.employee_user</sys_name>
+        <sys_package display_value="ProManager" source="x_862716_pmanager">fbc9cad997806110114a38271153af50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProManager">fbc9cad997806110114a38271153af50</sys_scope>
+        <sys_update_name>sys_user_role_226a421197c06110114a38271153af56</sys_update_name>
+    </sys_user_role>
+</record_update>

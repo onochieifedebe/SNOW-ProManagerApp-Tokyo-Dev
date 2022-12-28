@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="on_a_project" label="On a Project?" language="en" table="x_862716_pmanager_employee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>on_a_project</element>
+            <help/>
+            <hint/>
+            <label>On a Project?</label>
+            <language>en</language>
+            <name>x_862716_pmanager_employee</name>
+            <plural>On a Project?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-27 20:13:59</sys_created_on>
+            <sys_name>On a Project?</sys_name>
+            <sys_package display_value="ProManager" source="x_862716_pmanager">fbc9cad997806110114a38271153af50</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProManager">fbc9cad997806110114a38271153af50</sys_scope>
+            <sys_update_name>sys_documentation_x_862716_pmanager_employee_on_a_project_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

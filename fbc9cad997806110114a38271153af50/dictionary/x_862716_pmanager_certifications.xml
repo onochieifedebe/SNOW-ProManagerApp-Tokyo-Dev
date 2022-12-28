@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="405c4e9597c06110114a38271153af15" label="Certifications" max_length="40" name="x_862716_pmanager_certifications" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Certification Name" mandatory="true" max_length="65" name="certification_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="description" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

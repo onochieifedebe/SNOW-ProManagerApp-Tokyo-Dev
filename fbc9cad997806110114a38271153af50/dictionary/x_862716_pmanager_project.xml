@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="32ec86d597c06110114a38271153afe8" label="Project" max_length="40" name="x_862716_pmanager_project" type="collection">
+        <element label="Active?" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Details" max_length="1000" name="project_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Name" max_length="150" name="project_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+    </element>
+</database>

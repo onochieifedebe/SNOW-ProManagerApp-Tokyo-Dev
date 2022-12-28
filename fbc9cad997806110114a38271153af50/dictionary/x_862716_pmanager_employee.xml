@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="fd6bce5597c06110114a38271153af12" label="Employee" max_length="40" name="x_862716_pmanager_employee" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Capability" max_length="100" name="capability" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="On a Project?" max_length="40" name="on_a_project" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="u_journal_1" type="journal"/>
+    </element>
+</database>
